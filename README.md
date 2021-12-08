@@ -1,14 +1,14 @@
 # first-site 🌐
 
-## 🌱 an _inspiration_ and _resource_ for anyone who is just starting or wants to start learning web development.
+### 🌱 an _inspiration_ and _resource_ for anyone who is just starting or wants to start learning web development.
 
 - 👷‍♀️ build your own first website step by step and learn the basics of web development
 - 👨‍💻 don't be shy and show me your result
 - 🐣 we are all here to learn, no matter how advanced you are
 
-### 👀 see what is possible after 1-3 hours of research and motivation:
+#### 👀 see what is possible after 1-3 hours of research and motivation:
 
-<a href="https://glmvc.github.io/first-site/" target="_blank">[![screenshot of the first site](images/first-site-screenshot.png "first page")](https://glmvc.github.io/first-site/)</a>
+<a href="https://glmvc.github.io/first-site/">[![screenshot of the first site](images/first-site-screenshot.png "first page")](https://glmvc.github.io/first-site/)</a>
 
 ---
 
@@ -196,6 +196,6 @@ myButton.onclick = function() {
 }
 ```
 
-🤩 looks amazing for a beginner, doesn't it? don't worry - it's not difficult at all!
+#### 🤩 looks amazing for a beginner, doesn't it? don't worry - it's not difficult at all!
 
-> Created along with the beginner-friendly learning resource <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" target="_blank">"Getting started with the Web"</a> from the <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a> (previously Mozilla Developer Network and formerly Mozilla Developer Center).
+> Created along with the beginner-friendly learning resource <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">"Getting started with the Web"</a> from the <a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a> (previously Mozilla Developer Network and formerly Mozilla Developer Center).
