@@ -5,15 +5,17 @@
 const correctedHeading = document.querySelector('h1');
 correctedHeading.textContent = 'Hello, World!';
 
+
 document.querySelector('h1').onclick = function() {
     alert('Ouch! Stop poking me!');
 }
 
 /* alternative (longer) code:
-    let myHeadline1 = document.querySelector('h1');
-    myHeadline1.onclick = function() {
-        alert('Ouch! Stop poking me!');
-    } */
+let myHeadline1 = document.querySelector('h1');
+myHeadline1.onclick = function() {
+    alert('Ouch! Stop poking me!');
+}
+*/
 
 
 // image switcher code:
@@ -22,10 +24,10 @@ let myImage = document.querySelector('img');
 
 myImage.onclick = function() {
   let mySrc = myImage.getAttribute('src');
-  if(mySrc === 'images/world.png') {
+  if(mySrc === 'images/hello-world.png') {
     myImage.setAttribute ('src','images/js-code.png');
   } else {
-    myImage.setAttribute ('src','images/world.png');
+    myImage.setAttribute ('src','images/hello-world.png');
   }
 }
 
