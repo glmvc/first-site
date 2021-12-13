@@ -187,8 +187,8 @@ function setUserName() {
 if(!localStorage.getItem('name')) {
     setUserName();
 } else {
-    let myName = localStorage.getItem('name');
-    myHeading.textContent = 'Nice to meet you, ' + myName + '!';
+    let storedName = localStorage.getItem('name');
+    myHeading.textContent = 'Nice to meet you, ' + storedName + '!';
 }
 
 myButton.onclick = function() {
