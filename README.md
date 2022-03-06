@@ -1,18 +1,33 @@
-# first-site 🌐
+# :globe_with_meridians: first-site
 
-### 🌱 an _inspiration_ and _resource_ for anyone who is just starting or wants to start learning web development.
+### :rocket: with this small website project i started my journey as a web developer
 
-- 👷‍♀️ build your own first website step by step and learn the basics of web development
-- 👨‍💻 don't be shy and show me your result
-- 🐣 we are all here to learn, no matter how advanced you are
+### :seedling: so this should be an _inspiration_ and _resource_ for anyone looking to get into web development
 
-#### 👀 see what is possible after 1-3 hours of research and motivation:
+- just try to build your very first own website step by step :construction_worker_woman:
+- and learn the first important fundamentals of web development right away :scientist:
+- also don't be shy and show us your result :man_technologist:
+- we are all here to learn - from and with others - no matter how advanced someone is :hatching_chick:
 
-<a href="https://glmvc.github.io/first-site/">[![screenshot of the first site](images/first-site-screenshot.png "first page")](https://glmvc.github.io/first-site/)</a>
+#### :eyes: check out what is possible after 1-3 hours of research and motivation:
+
+- the page has content (with hyperlinks) :newspaper:
+- it is styled :art:
+- clicking the image will show another one :framed_picture:
+- the website asks us for a name, which can also be changed by clicking on the button :magic_wand:
+
+[![screenshot of the first site](images/first-site-screenshot.png "first site website")](https://glmvc.github.io/first-site/)
+
+in the meantime i have upgraded this website :crystal_ball:
+- link to its repository: https://github.com/glmvc/first-site-upgrade/
+- link to the actual website: https://glmvc.github.io/first-site-upgrade/
 
 ---
 
-#### 👾 and here are the lines of code for it:
+#### :space_invader: and here are the lines of code for it
+
+- as a beginner, the following just looks impressive, i know - i actually surprised myself at what i achieved :star_struck:
+- but you'll see once you start it's not that difficult at all :zap:
 
 ``` html
 <!DOCTYPE html>
@@ -47,6 +62,7 @@
         </ol>
         <h6>Change your name:</h6>
         <button>Change user</button>
+        <a href="https://glmvc.github.io/first-site-upgrade/"><h6>Check out the upgraded version of this page!</h6></a>
         <script src="scripts/main.js"></script>
     </body>
 </html>
@@ -107,7 +123,7 @@ h4 {
     font-size: 16px;
     margin: 0;
     padding: 20px 0 5px;
-    text-shadow: 1.5px 1.5px 0.5px #1A1A1A;    
+    text-shadow: 1.5px 1.5px 0.5px #1A1A1A;
 }
 
 h5, h6 {
@@ -196,6 +212,4 @@ myButton.onclick = function() {
 }
 ```
 
-#### 🤩 looks amazing for a beginner, doesn't it? don't worry - it's not difficult at all!
-
-> Created along with the beginner-friendly learning resource <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">"Getting started with the Web"</a> from the <a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a> (previously Mozilla Developer Network and formerly Mozilla Developer Center).
+> created along with the beginner-friendly learning resource ["Getting started with the Web"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) from the [MDN Web Docs](https://developer.mozilla.org/en-US/) (previously Mozilla Developer Network and formerly Mozilla Developer Center)
