@@ -9,7 +9,7 @@
 - also don't be shy and show us your result :man_technologist:
 - we are all here to learn - from and with others - no matter how advanced someone is :hatching_chick:
 
-#### :eyes: check out what is possible after 1-3 hours of research and motivation:
+#### :eyes: check out what is possible after 1-3 hours of research and motivation
 
 - the page has content (with hyperlinks) :newspaper:
 - it is styled :art:
@@ -19,8 +19,8 @@
 [![screenshot of the first site](images/first-site-screenshot.png "first site website")](https://glmvc.github.io/first-site/)
 
 in the meantime i have upgraded this website :crystal_ball:
-- link to its repository: https://github.com/glmvc/first-site-upgrade/
-- link to the actual website: https://glmvc.github.io/first-site-upgrade/
+- link to the repository: https://github.com/glmvc/first-site-upgrade/
+- link to the website: https://glmvc.github.io/first-site-upgrade/
 
 ---
 
