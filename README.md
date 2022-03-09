@@ -20,8 +20,8 @@
 ##### [first site website](https://glmvc.github.io/first-site/)
 [![screenshot of the first site website](images/first-site-screenshot.png "first site website")](https://glmvc.github.io/first-site/)
 
-in the meantime i've created an **upgraded version** of this website - give it a chance and take a look :crystal_ball:
-- spoiler: it's *way* better and can do *much much* more
+#### :crystal_ball: in the meantime i've created an upgraded version of this website - give it a chance and take a look
+- spoiler: it's *way* better and can do *much much* more :mechanical_arm:
 - [link to its repository](https://github.com/glmvc/first-site-upgrade/)
 - [link to the actual website](https://glmvc.github.io/first-site-upgrade/)
 
