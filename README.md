@@ -1,30 +1,33 @@
 # :globe_with_meridians: first-site
 
-### :rocket: with this small website project i started my journey as a web developer
+## :rocket: with this small website project i started my journey as a web developer...
 
-### :seedling: so this should be an _inspiration_ and _resource_ for anyone looking to get into web development
+### :seedling: so this should be an *inspiration* and *resource* for anyone looking to get into web development
 
 - just try to build your very first own website step by step :construction_worker_woman:
 - and learn the first important fundamentals of web development right away :scientist:
 - also don't be shy and show us your result :man_technologist:
-- we are all here to learn - from and with others - no matter how advanced someone is :hatching_chick:
+- we're all here to learn - from and with others - no matter how advanced someone is :hatching_chick:
 
 #### :eyes: check out what is possible after 1-3 hours of research and motivation
 
 - the page has content (with hyperlinks) :newspaper:
-- it is styled :art:
+- it's styled :art:
 - clicking the image will show another one :framed_picture:
-- the website asks us for a name, which can also be changed by clicking on the button :magic_wand:
+- the site asks us for a name, which can also be changed by clicking on the button :magic_wand:
+- the website is online using [github pages](https://pages.github.com/) :earth_americas:
 
-[![screenshot of the first site](images/first-site-screenshot.png "first site website")](https://glmvc.github.io/first-site/)
+##### [first site website](https://glmvc.github.io/first-site/)
+[![screenshot of the first site website](images/first-site-screenshot.png "first site website")](https://glmvc.github.io/first-site/)
 
-in the meantime i have upgraded this website :crystal_ball:
-- link to the repository: https://github.com/glmvc/first-site-upgrade/
-- link to the website: https://glmvc.github.io/first-site-upgrade/
+in the meantime i've created an **upgraded version** of this website - give it a chance and take a look :crystal_ball:
+- spoiler: it's *way* better and can do *much much* more
+- [link to its repository](https://github.com/glmvc/first-site-upgrade/)
+- [link to the actual website](https://glmvc.github.io/first-site-upgrade/)
 
 ---
 
-#### :space_invader: and here are the lines of code for it
+#### :space_invader: and here are the lines of code of my first site
 
 - as a beginner, the following just looks impressive, i know - i actually surprised myself at what i achieved :star_struck:
 - but you'll see once you start it's not that difficult at all :zap:
