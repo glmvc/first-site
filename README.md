@@ -14,23 +14,25 @@
 - the page has content (with hyperlinks) :newspaper:
 - it's styled :art:
 - clicking the image will show another one :framed_picture:
-- the site asks us for a name, which can also be changed by clicking on the button :magic_wand:
-- the website is online using [github pages](https://pages.github.com/) :earth_americas:
+- the site asks us for a name, which is displayed under the main heading and it can also be changed by clicking on the button :magic_wand:
+- the website is online using [github pages](https://pages.github.com/ "github pages homepage") :earth_americas:
 
-##### [first site website](https://glmvc.github.io/first-site/)
+##### [first site website](https://glmvc.github.io/first-site/ "first site website")
+
 [![screenshot of the first site website](images/first-site-screenshot.png "first site website")](https://glmvc.github.io/first-site/)
 
 #### :crystal_ball: in the meantime i've created an upgraded version of this website - give it a chance and take a look
+
 - spoiler: it's *way* better and can do *much much* more :mechanical_arm:
-- [link to its repository](https://github.com/glmvc/first-site-upgrade/)
-- [link to the actual website](https://glmvc.github.io/first-site-upgrade/)
+- [link to its repository](https://github.com/glmvc/first-site-upgrade/ "first site upgrade github repository")
+- [link to the actual website](https://glmvc.github.io/first-site-upgrade/ "first site upgrade website")
 
 ---
 
 #### :space_invader: and here are the lines of code of my first site
 
 - as a beginner, the following just looks impressive, i know - i actually surprised myself at what i achieved :star_struck:
-- but you'll see once you start it's not that difficult at all :zap:
+- but you'll see once you get started it's not that difficult at all :zap:
 
 ``` html
 <!DOCTYPE html>
@@ -69,6 +71,7 @@
         <script src="scripts/main.js"></script>
     </body>
 </html>
+
 ```
 
 ```css
@@ -151,6 +154,7 @@ a:hover {
 strong {
     color: #0FB55E;
 }
+
 ```
 
 ```javascript
@@ -213,6 +217,7 @@ if(!localStorage.getItem('name')) {
 myButton.onclick = function() {
     setUserName();
 }
+
 ```
 
-> created along with the beginner-friendly learning resource ["Getting started with the Web"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) from the [MDN Web Docs](https://developer.mozilla.org/) (previously Mozilla Developer Network and formerly Mozilla Developer Center)
+> created along with the beginner-friendly learning resource ["Getting started with the Web"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web "getting started with the web article on mdn") from the [MDN Web Docs](https://developer.mozilla.org/ "mdn web docs homepage") (previously Mozilla Developer Network and formerly Mozilla Developer Center)
