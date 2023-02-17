@@ -19,7 +19,7 @@
 
 ##### [first site website](https://glmvc.github.io/first-site/ "first site website")
 
-[![screenshot of the first site website](images/first-site-screenshot.png "first site website")](https://glmvc.github.io/first-site/)
+[![screenshot of the first site website](first-site-screenshot.png "first site website")](https://glmvc.github.io/first-site/)
 
 #### 🔮 in the meantime i've created an upgraded version of this website - give it a chance and take a look
 
