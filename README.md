@@ -17,7 +17,7 @@
 - the site asks us for a name, which is displayed under the main heading and it can also be changed by clicking on the button 🪄
 - the website is online using [github pages](https://pages.github.com/ "github pages homepage") 🌎
 
-##### [first site website](https://glmvc.github.io/first-site/ "first site website")
+##### 🔗 [first site website](https://glmvc.github.io/first-site/ "first site website")
 
 [![screenshot of the first site website](first-site-screenshot.png "first site website")](https://glmvc.github.io/first-site/)
 
