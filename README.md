@@ -6,7 +6,7 @@
 
 - just try to build your very first own website step by step 👷‍♀️
 - and learn the first important fundamentals of web development right away 🧑‍🔬
-- also don't be shy and show us your result 👨‍💻
+- also, don't be shy and show us your result 👨‍💻
 - we're all here to learn - from and with others - no matter how advanced someone is 🐣
 
 #### 👀 check out what is possible after 1-3 hours of research and motivation
@@ -14,18 +14,18 @@
 - the page has content (with hyperlinks) 📰
 - it's styled 🎨
 - clicking the image will show another one 🖼️
-- the site asks us for a name, which is displayed under the main heading and it can also be changed by clicking on the button 🪄
+- the site asks us for a name, which is displayed under the main heading, and it can also be changed by clicking on the button 🪄
 - the website is online using [github pages](https://pages.github.com/ "github pages homepage") 🌎
 
 ##### 🔗 [first site website](https://glmvc.github.io/first-site/ "first site website")
 
 [![screenshot of the first site website](first-site-screenshot.png "first site website")](https://glmvc.github.io/first-site/)
 
-#### 🔮 in the meantime i've created an upgraded version of this website - give it a chance and take a look
+#### 🔮 i've created an upgraded version of this website - give it a chance and check it out
 
-- spoiler: it's *way* better and can do *much much* more 🦾
+- spoiler: it's *way* better and can do *much* more 🦾
 - [link to its repository](https://github.com/glmvc/first-site-upgrade "first site upgrade github repository")
-- [link to the actual website](https://glmvc.github.io/first-site-upgrade/ "first site upgrade website")
+- [link to the upgraded website](https://glmvc.github.io/first-site-upgrade/ "first site upgrade website")
 
 ---
 
@@ -33,6 +33,8 @@
 
 - as a beginner, the following just looks impressive, i know - i actually surprised myself at what i achieved 🤩
 - but you'll see once you get started it's not that difficult at all ⚡️
+
+##### HTML
 
 ``` html
 <!DOCTYPE html>
@@ -73,6 +75,8 @@
 </html>
 
 ```
+
+##### CSS
 
 ```css
 /* i am a comment (a browser ignores comments as it renders the code) */
@@ -157,6 +161,8 @@ strong {
 
 ```
 
+##### JS
+
 ```javascript
 /* i am a comment
    (a browser ignores text marked as comments) */
@@ -219,5 +225,7 @@ myButton.onclick = function() {
 }
 
 ```
+
+---
 
 > created along with the beginner-friendly learning resource ["Getting started with the Web"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web "getting started with the web article on mdn") from the [MDN Web Docs](https://developer.mozilla.org/ "mdn web docs homepage") (previously Mozilla Developer Network and formerly Mozilla Developer Center)
