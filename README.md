@@ -1,6 +1,6 @@
 # 🌐 first-site
 
-## 🚀 with this small website project i started my journey as a web developer...
+## 🚀 with this small website project i started my journey as a web developer
 
 ### 🌱 so this should be an *inspiration* and *resource* for anyone looking to get into web development
 
@@ -9,27 +9,27 @@
 - also, don't be shy and show us your result 👨‍💻
 - we're all here to learn - from and with others - no matter how advanced someone is 🐣
 
-#### 👀 check out what is possible after 1-3 hours of research and motivation
+#### 👀 check out what is possible with 1-3 hours of research and motivation
 
 - the page has content (with hyperlinks) 📰
 - it's styled 🎨
 - clicking the image will show another one 🖼️
-- the site asks us for a name, which is displayed under the main heading, and it can also be changed by clicking on the button 🪄
+- the site asks us for a name, which is displayed under the main heading, and it can also be changed by clicking the button 🪄
 - the website is online using [github pages](https://pages.github.com/ "github pages homepage") 🌎
 
-##### 🔗 [first site website](https://glmvc.github.io/first-site/ "first site website")
+##### 🔗 [first-site website](https://glmvc.github.io/first-site/ "first-site homepage")
 
-[![screenshot of the first site website](first-site-screenshot.png "first site website")](https://glmvc.github.io/first-site/)
+[![screenshot of the first-site website](first-site-screenshot.png "first-site homepage")](https://glmvc.github.io/first-site/)
 
-#### 🔮 i've created an upgraded version of this website - give it a chance and check it out
+#### 🔮 i've created an **upgraded version** of this website - give the upgraded project a chance and check it out
 
 - spoiler: it's *way* better and can do *much* more 🦾
-- [link to its repository](https://github.com/glmvc/first-site-upgrade "first site upgrade github repository")
-- [link to the upgraded website](https://glmvc.github.io/first-site-upgrade/ "first site upgrade website")
+- [upgraded repository](https://github.com/glmvc/first-site-upgrade "first-site-upgrade github repository")
+- [upgraded website](https://glmvc.github.io/first-site-upgrade/ "first-site-upgrade website")
 
 ---
 
-#### 👾 and here are the lines of code of my first site
+#### 👾 and here are the lines of code of my first-site
 
 - as a beginner, the following just looks impressive, i know - i actually surprised myself at what i achieved 🤩
 - but you'll see once you get started it's not that difficult at all ⚡️
@@ -228,4 +228,4 @@ myButton.onclick = function() {
 
 ---
 
-> created along with the beginner-friendly learning resource ["Getting started with the Web"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web "getting started with the web article on mdn") from the [MDN Web Docs](https://developer.mozilla.org/ "mdn web docs homepage") (previously Mozilla Developer Network and formerly Mozilla Developer Center)
+> created along with the beginner-friendly learning resource ["Getting started with the web"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web "getting started with the web article on mdn") from the [MDN Web Docs](https://developer.mozilla.org/ "mdn web docs homepage") (previously Mozilla Developer Network and formerly Mozilla Developer Center)
