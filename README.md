@@ -228,4 +228,4 @@ myButton.onclick = function() {
 
 ---
 
-> created along with the beginner-friendly learning resource ["Getting started with the web"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web "getting started with the web article on mdn") from the [MDN Web Docs](https://developer.mozilla.org/ "mdn web docs homepage") (previously Mozilla Developer Network and formerly Mozilla Developer Center)
+> created along with the **beginner-friendly learning resource** "[getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web "getting started with the web article on mdn")" from the [mdn web docs](https://developer.mozilla.org/ "mdn web docs homepage")
