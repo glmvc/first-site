@@ -1,13 +1,13 @@
 # 🌐 first-site
 
-## 🚀 with this small website project i started my journey as a web developer
+## 🚀 with this small website project, i started my journey as a web developer
 
 ### 🌱 so this should be an *inspiration* and *resource* for anyone looking to get into web development
 
-- just try to build your very first own website step by step 👷‍♀️
+- just try to build your very first website, step by step 👷‍♀️
 - and learn the first important fundamentals of web development right away 🧑‍🔬
 - also, don't be shy and show us your result 👨‍💻
-- we're all here to learn - from and with others - no matter how advanced someone is 🐣
+- we're all here to learn from and with others, no matter how advanced someone is 🐣
 
 #### 👀 check out what is possible with 1-3 hours of research and motivation
 
@@ -29,10 +29,10 @@
 
 ---
 
-#### 👾 and here are the lines of code of my first-site
+#### 👾 and here are the lines of code for my first-site
 
-- as a beginner, the following just looks impressive, i know - i actually surprised myself at what i achieved 🤩
-- but you'll see once you get started it's not that difficult at all ⚡️
+- as a complete beginner, the following just looks impressive - i was surprised myself at what i achieved 🤩
+- but you'll see once you get started, it's not that difficult at all ⚡️
 
 ##### HTML
 
