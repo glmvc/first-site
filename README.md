@@ -1,6 +1,6 @@
 # 🌐 first-site
 
-## 🚀 with this small website project, i started my journey as a web developer
+## 🚀 i started my journey as a web developer with this small website project
 
 ### 🌱 so this should be an *inspiration* and *resource* for anyone looking to get into web development
 
@@ -11,15 +11,15 @@
 
 #### 👀 check out what is possible with 1-3 hours of research and motivation
 
-- the page has content (with hyperlinks) 📰
+- the site has content (with hyperlinks) 📰
 - it's styled 🎨
 - clicking the image will show another one 🖼️
-- the site asks us for a name, which is displayed under the main heading, and it can also be changed by clicking the button 🪄
+- the user is asked for a name, which is displayed under the main heading and can also be changed by clicking the button 🪄
 - the website is online using [github pages](https://pages.github.com/ "github pages homepage") 🌎
 
-##### 🔗 [first-site website](https://glmvc.github.io/first-site/ "first-site homepage")
+##### 🔗 [first-site](https://glmvc.github.io/first-site/ "first-site website")
 
-[![screenshot of the first-site website](first-site-screenshot.png "first-site homepage")](https://glmvc.github.io/first-site/)
+[![screenshot of the first-site website](first-site-screenshot.png "first-site website")](https://glmvc.github.io/first-site/)
 
 #### 🔮 i've created an **upgraded version** of this website - give the upgraded project a chance and check it out
 
@@ -69,7 +69,7 @@
         </ol>
         <h6>Change your name:</h6>
         <button>Change user</button>
-        <a href="https://glmvc.github.io/first-site-upgrade/"><h6>Check out the upgraded version of this page!</h6></a>
+        <a href="https://glmvc.github.io/first-site-upgrade/"><h6>Check out the upgraded version of this site!</h6></a>
         <script src="scripts/main.js"></script>
     </body>
 </html>
