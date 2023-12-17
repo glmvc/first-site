@@ -2,7 +2,7 @@
 
 ## 🚀 i started my journey as a web developer with this small website project
 
-### 🌱 so this should be an *inspiration* and *resource* for anyone looking to get into web development
+### 🌱 this should be an *inspiration* and *resource* for anyone looking to get into web development
 
 - just try to build your very first website, step by step 👷‍♀️
 - and learn the first important fundamentals of web development right away 🧑‍🔬
@@ -15,7 +15,7 @@
 - it's styled 🎨
 - clicking the image will show another one 🖼️
 - the user is asked for a name, which is displayed under the main heading and can also be changed by clicking the button 🪄
-- the website is online using [github pages](https://pages.github.com/ "github pages homepage") 🌎
+- the website is online using [github pages](https://pages.github.com/ "github pages website") 🌎
 
 ##### 🔗 [first-site](https://glmvc.github.io/first-site/ "first-site website")
 
@@ -50,7 +50,7 @@
         <h2>Nice to meet you!</h2>
         <img src="images/hello-world.png" alt="the earth saying hello and the moon">
         <h3>"Hello, World!" program</h3>
-        <p>A "Hello, World!" program generally is a computer program that outputs or displays the message "Hello, World!". Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language. It is often the first program written by people learning to code. It can also be used as a sanity test to make sure that computer software intended to compile or run source code is correctly installed, and that the operator understands how to use it.</p>
+        <p>A "Hello, World!" program is generally a simple computer program which outputs (or displays) to the screen (often the console) a message similar to "Hello, World!" while ignoring any user input. A small piece of code in most general-purpose programming languages, this program is used to illustrate a language's basic syntax. A "Hello, World!" program is often the first written by a student of a new programming language, but such a program can also be used as a sanity check to ensure that the computer software intended to compile or run source code is correctly installed, and that its operator understands how to use it.</p>
         <h4>Note that HTML is not a programming language</h4>
         <p>The HyperText Markup Language, or <strong>HTML</strong> is the standard markup language for documents designed to be displayed in a web browser.</p>
         <p>It can be assisted by technologies such as</p>
@@ -82,7 +82,7 @@
 /* i am a comment (a browser ignores comments as it renders the code) */
 
 html {
-    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels */
     font-family: "Source Code Pro", monospace; /* from google fonts */
     color: whitesmoke;
     background-color: #1A1A1A;
@@ -100,7 +100,7 @@ p, li {
 }
 
 body {
-    width: 800px; /* forces body to always be 800px */
+    width: 800px; /* forces the body to always be 800px */
     margin: 0 auto; /* first value: top & bottom; second value: left & right (2 values order) */
     background-color: #2B2B2B;
     padding: 0 30px 30px 30px; /* 4 values order: top, right, bottom, left = clockwise (for margin the same logic) */
@@ -143,7 +143,7 @@ h5, h6 {
 }
 
 img {
-    display: block; /* images are inline elements -> give them block-level behaviour to make the auto margin trick working */
+    display: block; /* images are inline elements - give them block-level behavior to make the auto margin trick working */
     margin: 0 auto;
 }
 
@@ -166,7 +166,7 @@ strong {
 ```javascript
 /* i am a comment
    (a browser ignores text marked as comments) */
-// i am single line comment
+// i am a single line comment
 
 const correctedHeading = document.querySelector('h1');
 correctedHeading.textContent = 'Hello, World!';
@@ -198,7 +198,7 @@ myImage.onclick = function() {
 }
 
 
-// personalised welcome message code:
+// personalized welcome message code:
 
 let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h2');
@@ -228,4 +228,4 @@ myButton.onclick = function() {
 
 ---
 
-> created along with the beginner-friendly learning resource ["getting started with the web"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web "getting started with the web article on mdn") from the [mdn web docs](https://developer.mozilla.org/ "mdn web docs homepage")
+> created along with the beginner-friendly learning resource ["getting started with the web"](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web "getting started with the web article on mdn") from the [mdn web docs](https://developer.mozilla.org/ "mdn web docs website")
