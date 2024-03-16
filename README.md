@@ -13,7 +13,7 @@
 
 - the site has content (with hyperlinks) 📰
 - it's styled 🎨
-- clicking the image will show another one 🖼️
+- clicking on the image will show another one 🖼️
 - the user is asked for a name, which is displayed under the main heading and can also be changed by clicking the button 🪄
 - the website is online using [github pages](https://pages.github.com/ "github pages website") 🌎
 
@@ -32,7 +32,7 @@
 #### 👾 and here are the lines of code for my first-site
 
 - as a complete beginner, the following just looks impressive - i was surprised myself at what i achieved 🤩
-- but you'll see once you get started, it's not that difficult at all ⚡️
+- but you'll see, once you get started, it's not that difficult at all ⚡️
 
 ##### HTML
 
@@ -50,9 +50,9 @@
         <h2>Nice to meet you!</h2>
         <img src="images/hello-world.png" alt="the earth saying hello and the moon">
         <h3>"Hello, World!" program</h3>
-        <p>A "Hello, World!" program is generally a simple computer program which outputs (or displays) to the screen (often the console) a message similar to "Hello, World!" while ignoring any user input. A small piece of code in most general-purpose programming languages, this program is used to illustrate a language's basic syntax. A "Hello, World!" program is often the first written by a student of a new programming language, but such a program can also be used as a sanity check to ensure that the computer software intended to compile or run source code is correctly installed, and that its operator understands how to use it.</p>
+        <p>A "Hello, World!" program is generally a simple computer program that outputs (or displays) to the screen (often the console) a message similar to "Hello, World!" while ignoring any user input. A small piece of code in most general-purpose programming languages, this program is used to illustrate a language's basic syntax. A "Hello, World!" program is often the first written by a student of a new programming language, but such a program can also be used as a sanity check to ensure that the computer software intended to compile or run source code is correctly installed, and that its operator understands how to use it.</p>
         <h4>Note that HTML is not a programming language</h4>
-        <p>The HyperText Markup Language, or <strong>HTML</strong> is the standard markup language for documents designed to be displayed in a web browser.</p>
+        <p>The HyperText Markup Language, or <strong>HTML</strong>, is the standard markup language for documents designed to be displayed in a web browser.</p>
         <p>It can be assisted by technologies such as</p>
         <ul>
             <li>Cascading Style Sheets (<strong>CSS</strong>)</li>
@@ -61,7 +61,7 @@
         <h5>Sources:</h5>
         <ol>
             <li>
-                <p>Created along with the beginner-friendly learning resource <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">"Getting started with the Web"</a> from the <a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a> (previously Mozilla Developer Network and formerly Mozilla Developer Center).</p>
+                <p>Created along with the beginner-friendly learning resource <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">"Getting started with the Web"</a> from the <a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a>.</p>
             </li>
             <li>
                 <p>Definitions: <a href="https://wikipedia.org/">Wikipedia</a></p>
