@@ -43,7 +43,7 @@
         <meta charset="utf-8">
         <title>My First Site</title>
         <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
-        <link href="styles/style.css" rel="stylesheet">
+        <link href="styles/main.css" rel="stylesheet">
     </head>
     <body>
         <h1>hello world!</h1>
